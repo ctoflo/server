@@ -1,2 +1,2 @@
-# server
+# JS server
 JS server
